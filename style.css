@@ -26,6 +26,7 @@ body{
 .items{
     margin: 1px 1px;
     width: 19vw;
+    min-height : 15vh ;
     border: 1px solid black;
     border-radius: 5px;
     text-align: center;
